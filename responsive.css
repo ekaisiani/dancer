@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media screen and (max-width: 1550px){
+    #two{
+      
+        /* bottom: -120px; */
+       height: 1200px;
+    }
+
+
+}
+@media screen and (max-width: 1500px){
+
+
+}
+
+
+
+    
